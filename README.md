@@ -2,9 +2,11 @@
 
 A decentralized application (dApp) that allows users to send ETH tips ("coffees") and leave messages on the blockchain. Built with React, Solidity, and ethers.js.
 
-![image](https://github.com/user-attachments/assets/ae981c57-d203-497e-9b8b-b6d89eccc3cd)
-![image](https://github.com/user-attachments/assets/ea9646d7-7e2d-4355-b1a0-07c029ea92e2)
-![image](https://github.com/user-attachments/assets/0a75dd67-ea8f-4805-85b6-6a5376f1a352)
+![image](https://github.com/user-attachments/assets/8133afdd-652a-4d27-9917-6aef4012712a)
+![image](https://github.com/user-attachments/assets/c7a27dfc-266d-4428-9bfc-f046bd4248eb)
+![image](https://github.com/user-attachments/assets/51ad2eaf-1e73-40ff-9926-68f150eef4d9)
+
+
 
 
 ## Features 🌟
